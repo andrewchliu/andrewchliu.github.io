@@ -1,4 +1,3 @@
-
 let button1= document.getElementById('navbut1');
 let button2= document.getElementById('navbut2');
 let button3= document.getElementById('navbut3');
